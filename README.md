@@ -50,12 +50,3 @@ Damos la bienvenida a todos los colaboradores 💙
 
 ### 🎥 Presentación del Equipo de trabajo
 
-<!-- YT:START -->
-- [Video - Presentación Grupal][video1]
-
-<!-- YT:END -->
-
----
-
-
----
