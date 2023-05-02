@@ -1,44 +1,52 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dN6byDQz)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11029264&assignment_repo_type=AssignmentRepo)
 ## Bienvenido al repositorio del proyecto #2  
-El mismo debe respetar la siguiente estructura de carpetas:   
 
-A_Material Aulico  
-B_Bibliografia  
-C_Ampliacion  
-D_Proyecto  
-..................| Software  
-..................| Hardware    
-README.md  
+# Electrónica Microcontrolada - TST - 2023
+Proyecto del periodo #2. Alarma doméstica microcontrolada
+ 
+<img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/imagenes/logo2.png" align="left" height="300">
 
-Donde:  
-En **material aulico**, ira todo el material de recursos de la materia, que se publica para tal fin. Tp, Proyectos, link a sincronicos, asincronicos, recursos, etc.  
-En **Bibliografia**, material bibliografico utilizado para completar las tareas.   
-En **Ampliacion**, es la bibliografia que amplia los temas vistos  
-En **proyecto**, van las carpetas con los prototipos hardware y software si correspondiese.   
-En el **README principal**, la portada con los datos de la materia, profesor, año, integrantes y descripcion de estructura.   
+## Integrantes Grupo 1          
 
-**IMPORTANTE:** Todas las carpetas deben tener un README.md que describa su contenido o estructura.   
+Damos la bienvenida a todos los colaboradores 💙
+- **Joaquin Emiliano Cortabarria**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
+- **Alan Pierola**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/alancodigo) | [Ver Página web](https://alancodigo.github.io)
+- **Joaquin Dorgnach**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Joaquinn31)
+- **Florencia Arias**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/cande2323)
+- **Ulises Ale**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/ulisesaale)
+- **Agustin Andres Correa Guzman**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Agustincorreag91https://github.com/)
+- **Matias Humaran**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Malvatyan)
+- **Ferreyra Gastón**. Estudiante de TSDWAD & Telecomunicaciones [Ver Github](https://github.com/gastonloco).
 
-# Proyecto-2
 
-## Codificadores, Automatismo y Alarma
 
-**"En este periodo veremos cómo se utiliza las técnicas digitales para darle solución a diferentes procesos o dispositivos"**  
+## Docente
 
-**Objetivos:**
-1.	Comprender los conceptos básicos de la lógica combinacional y su aplicación en el diseño de sistemas digitales. 
-2.	Aprender a diseñar autómatas secuenciales para la automatización de procesos.
-3.	Adquirir habilidades en el diseño y programación de sistemas digitales microcontrolados para la implementación de sistemas de seguridad.
-4.	Desarrollar habilidades para la identificación y análisis de problemas en sistemas digitales, y para la aplicación de soluciones efectivas utilizando las herramientas y técnicas adecuadas.
+- **Cristian Gonzalo Vera**. Prof. politecnico de Cordoba y desarrolador de IoT. [Ver Github](https://github.com/Gona79).
 
-## Desarrollo
 
-### Ejercicio #1, lógica combinacional:                                                   01/05 al 14/05
-Diseñar un controlador de display 7 segmentos utilizando un decodificador BCD a 7 segmentos y un circuito combinacional que convierta la entrada decimal en formato BCD. El controlador debe ser capaz de mostrar la entrada decimal en el display.
+## Equipo SCRUM 2023
 
-### Ejercicio #2, lógica secuencial:                                                        15/05 al 21/05
-Diseñar y programar un autómata secuencial (Moore o Mealy) para implementar el control de una línea de carga de paquetes de harina. El proceso de carga de paquetes debe iniciarse cuando la tolva tiene harina, las condiciones de seguridad están aseguradas y el operador pulsa el botón "start". Se deben definir al menos 6 estados para el automatismo.
 
-### Ejercicio #3, lógica microcontrolada:                                              22/05 al 28/05 
-Diseñar e implementar una alarma de hogar microcontrolada.
+### Product Owner
+
+- **Ferreyra Gastón**
+
+### Scrum Master
+
+- **Matias Humaran**
+
+### Development Team
+
+- **Joaquin Cortabarría**
+- **Alan Pierola**
+- **Joaquin Dorgnach**
+- **Florencia Arias**
+- **Ulises Ale**
+- **Agustin Correa**
+
+--- 
+
+### 🎥 Presentación del Equipo de trabajo
 
