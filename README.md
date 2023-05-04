@@ -11,6 +11,7 @@ Proyecto del periodo #2. Alarma doméstica microcontrolada
 
 Damos la bienvenida a todos los colaboradores 💙
 - **Joaquin Emiliano Cortabarria**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
+- **Elizabeth Villablancaa**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Mvillablancarodas).
 - **Alan Pierola**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/alancodigo) | [Ver Página web](https://alancodigo.github.io)
 - **Joaquin Dorgnach**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Joaquinn31)
 - **Florencia Arias**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/cande2323)
@@ -45,6 +46,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Florencia Arias**
 - **Ulises Ale**
 - **Agustin Correa**
+- **Elizabeth Villablancaa**
 
 --- 
 
