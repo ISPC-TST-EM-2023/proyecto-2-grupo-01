@@ -16,5 +16,8 @@
             "command": "extension.execute",
             "priority": 4
         }
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
