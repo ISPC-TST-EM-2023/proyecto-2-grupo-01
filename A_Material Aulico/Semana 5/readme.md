@@ -32,3 +32,4 @@ Desarrollar habilidades para la identificación y análisis de problemas en sist
 * 3 S5 Circuitos Lógicos Combinacionales
 * 4 Proyecto N°2
 * 5 TP N°5 
+che
