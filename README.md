@@ -6,6 +6,20 @@
 
 ## Bienvenidos al repositorio del proyecto #2  
 
+
+### 🎥 Presentación
+
+<!-- YT:START -->
+- [Video - Ejercicio 1][video1]
+
+<!-- YT:END -->
+
+
+---
+[video1]: https://www.youtube.com/watch?v=K6vlPgaKKyE
+
+---
+
 # Electrónica Microcontrolada - TST - 2023
 Proyectos del periodo #2:
 * :one: Codificación de Display 7 Segmentos.
