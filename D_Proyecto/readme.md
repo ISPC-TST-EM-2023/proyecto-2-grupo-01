@@ -1,3 +1,6 @@
+
+<img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-2-grupo-01/blob/main/B_Bibliografia/Img/fondo.jpg" align="center" height="350">
+
 # Proyecto #2 Codificadores, Automatismo y
 "En este periodo veremos cómo se utiliza las técnicas digitales para darle solución
 a diferentes procesos o dispositivos"
